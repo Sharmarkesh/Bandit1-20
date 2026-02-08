@@ -17,7 +17,7 @@ bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
 
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
-~ Explanation :
+# Explanation :
 
 Use dev/null to hide all other errors message
 
