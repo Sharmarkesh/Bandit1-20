@@ -11,6 +11,7 @@ cat: unrecognized option '--spaces in this filename--'
 
 # Solution:
 bandit2@bandit:~$ cat -- "--spaces in this filename--"
+
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 # Explanation:
 Running cat --spaces in the filename-- will cause errors .
