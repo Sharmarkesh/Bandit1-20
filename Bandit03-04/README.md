@@ -5,13 +5,17 @@ Files that start with . are hidden
 # Solution:
 Use ls -a and cat the hidden file
 
-bandit3@bandit:~/inhere$ ls
+bandit3@bandit:~/inhere$ ls    # did not display anything
+
 bandit3@bandit:~/inhere$ ls -a
 .  ..  ...Hiding-From-You
+
 bandit3@bandit:~/inhere$ cat .
 ./                  ../                 ...Hiding-From-You
+
 bandit3@bandit:~/inhere$ cat ..
 ../                 ...Hiding-From-You
+
 bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
