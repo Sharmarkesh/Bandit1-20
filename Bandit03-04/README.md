@@ -6,12 +6,16 @@ Files that start with . are hidden
 Use ls -a and cat the hidden file
 
 bandit3@bandit:~/inhere$ ls
+
 bandit3@bandit:~/inhere$ ls -a
 .  ..  ...Hiding-From-You
+
 bandit3@bandit:~/inhere$ cat .
 ./                  ../                 ...Hiding-From-You
+
 bandit3@bandit:~/inhere$ cat ..
 ../                 ...Hiding-From-You
+
 bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
@@ -19,3 +23,4 @@ bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 Password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 # What I have learned:
  Use ls -a to show any hidden file
+
