@@ -17,10 +17,12 @@ bandit3@bandit:~/inhere$ cat ..
 ../                 ...Hiding-From-You
 
 bandit3@bandit:~/inhere$ cat ...Hiding-From-You
+
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 # Explanation
 Password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 # What I have learned:
  Use ls -a to show any hidden file
+
 
