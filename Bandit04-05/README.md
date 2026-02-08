@@ -8,15 +8,24 @@
 
 bandit4@bandit:~/inhere$ file ./*
 
-./-file00: data
+./-file00: data 
+
 ./-file01: OpenPGP Public Key
+
 ./-file02: OpenPGP Public Key
+
 ./-file03: data
+
 ./-file04: data
+
 ./-file05: data
+
 ./-file06: data
+
 ./-file07: ASCII text
+
 ./-file08: data
+
 
 bandit4@bandit:~/inhere$ cat ./-file07
 
